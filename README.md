@@ -12,6 +12,6 @@ The data was transformed as follows:
 - the test data tables were combined (activity code + participant ID + measurements)
 - similarly, the training data tables were combined
 - the combined test and training data frames were combined
-- a a table consisting of the average of each variable across each participant and each activity was calculated
+- a table consisting of the average of each variable across each participant and each activity was calculated
 - this table was converted to long format for ease of reading
 - the table was saved as "finalTable.txt"
