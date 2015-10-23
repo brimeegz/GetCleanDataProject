@@ -10,6 +10,12 @@ ColumnNames <- sub("\\-mean\\(\\)\\-","Mean",ColumnNames)
 ColumnNames <- sub("\\-std\\(\\)\\-","StdDev",ColumnNames)
 ColumnNames <- sub("\\-mean\\(\\)","Mean",ColumnNames)
 ColumnNames <- sub("\\-std\\(\\)","StdDev",ColumnNames)
+ColumnNames <- sub("tBody","TimeBody",ColumnNames)
+ColumnNames <- sub("tGravity","TimeGravity",ColumnNames)
+ColumnNames <- sub("fBody","FrequencyBody",ColumnNames)
+ColumnNames <- sub("fGravity","FrequencyGravity",ColumnNames)
+ColumnNames <- sub("Acc","Accel",ColumnNames)
+ColumnNames <- sub("Mag","Magnitude",ColumnNames)
 
 #read in X test data
 Xtest <- read.table("X_test.txt")
