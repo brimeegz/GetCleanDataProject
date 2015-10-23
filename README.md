@@ -4,6 +4,8 @@ This repository has four files including this file.  The other three files are a
 - finalTable.txt is the long form of the average of all 66 variables by subject ID and activity code
 Notes on the script:
 The script has comments describing each line, but below is an overview
+
+
 The data was transformed as follows
 - only means and standard deviations were kept
 - the variable names were modified for ease of reading
