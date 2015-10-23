@@ -6,7 +6,7 @@ The remaining 66 variables consist of 33 mean and 33 standard deviation values.
 The prefix t denotes time domain values whereas f denotes frequency domain values.
 
 The Data:
-The original data comes was collected from accelerometers from a smartphone from 30 participants over time.
+The original data was collected from accelerometers from a smartphone from 30 participants over time.
 
 Transformations of the data:
 The data was transformed as follows
