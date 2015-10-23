@@ -83,5 +83,7 @@ The data was transformed as follows
 - this table was converted to long format for ease of reading
 - the table was saved as "finalTable.txt"
 
-
+Final output:
+- finalTable.txt is a long form file
+- there are averages across each of the variables across each combination of subject and activity
 
